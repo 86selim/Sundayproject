@@ -1,0 +1,11 @@
+{
+  "id": "postman-portable",
+  "guid": "{CA243954-836D-4029-85F0-D1B8E983B539}",
+  "name": "Postman Portable",
+  "version": "8.5.1",
+  "release": "50",
+  "date": "2021/06/03 19:35:45",
+  "publisher": "CrazyMax",
+  "url": "https://github.com/portapps/postman-portable",
+  "portapps_version": "3.3.0"
+}
